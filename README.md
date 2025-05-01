@@ -53,4 +53,4 @@ cd server
 npm run dev
 ```
 
-&copy; 2020 Sherwyn D'souza
+&copy; Timothy Nanan
